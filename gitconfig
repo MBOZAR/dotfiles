@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = david.mboma.dm@gmail.com
+	name = David Mboma
